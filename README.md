@@ -1,5 +1,4 @@
-This is the online game website by group 8. 
-
+This project aims to develop an intuitive and user-friendly web store for an independent game shop. The platform will equip the owner and employees with comprehensive tools to efficiently manage the product catalog, inventory, and customer orders. Additionally, it will offer a seamless and convenient shopping experience for customers, including purchasing and returning games.
 # Overview
 For more information, check the [wiki](https://github.com/McGill-ECSE321-Fall2024/project-group-8/wiki). 
 
